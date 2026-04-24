@@ -47,9 +47,7 @@ By switching the aggregation model from binary counts to absolute sums, the data
 
 ## 🖥️ Dashboard Preview
 
-Maven Marketing Power BI Dashboard
-
-<img width="1167" height="660" alt="image" src="https://github.com/user-attachments/assets/fa4db951-8bdf-4df4-aa38-fc5818fba4b4" />
+![Maven Marketing Power BI Dashboard](images/dashboard_screenshot.png)
 
 
 *(Note: Click the image above to view the full resolution, or download the `.pbix` file to interact with the dashboard directly.)*
